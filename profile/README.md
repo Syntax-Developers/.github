@@ -1,6 +1,8 @@
 # Site Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b86ba561-d570-4c9d-a72e-f791c67a63b1/deploy-status)](https://app.netlify.com/sites/syntaxdev/deploys)
 
+## [Visit site now!](https://syntaxdev.netlify.app)
+
 # Syntax Devs
 <img src="https://github.com/Syntax-Developers/.github/blob/main/Screenshot_1.png?raw=true">
 
